@@ -5,7 +5,6 @@ Welcome to the **Figma Designs** repository! This repo is a curated collection o
 ## Features
 
 - Organized Figma project files.
-- Reusable design components.
 - Inspiration for UI/UX projects.
 
 ## Usage
